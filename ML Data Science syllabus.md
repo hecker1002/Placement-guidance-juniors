@@ -25,13 +25,13 @@ independence – naïve bayes assumption , k means clustering and its variations
 em expectation maximization algorithm , density based clustering and dbscan , swiss roll dataset , dimensionality reduction algorithms, pca principal component analysis , 
 scree plot explained variance percentage eigenvector eigenvalue intuition of pca, svd singular value decomposition , lda linear discriminant analysis , fischer lda formula and intuition ,
 t sne stochastic neighbour embeddings, perplexity parameter, student t , deterministivc and non deterministic dimensionality reduction algorithms , sne , linear and non linear dimensionality reduction, 
-decision trees, gini index and information gain , entropy , extra trees , random forest , bagging bootstrap aggregation , boosting , adaboost vs gradient boosting , Bias vs Variance [V Imp] with 2-3 graphs related to it underfitting overfitting how to tackle both 
+decision trees, gini index and information gain , entropy , extra trees , random forest , bagging bootstrap aggregation , boosting , adaboost vs gradient boosting , **Bias vs Variance [V Imp] with 2-3 graphs related to it underfitting overfitting how to tackle both** 
 
 
 Deep Learning –
 
-ANN artificial neural networks, perceptron structure , activation functions, how nn trains , backpropogation , **gradient descent – stochastic batch and mini batch**, adam ,
-momentum based gradient descent variations , loss functions, transfer learning , cnn structure different layers , n+2p-f/s + 1 formula , rnn , gru and lstm , basics of computer vision 
+**ANN artificial neural networks, perceptron structure , activation functions, how nn trains , backpropogation**, **gradient descent – stochastic batch and mini batch**, adam ,
+momentum based gradient descent variations , **loss functions, transfer learning** , cnn structure different layers , n+2p-f/s + 1 formula , rnn , gru and lstm , basics of computer vision 
 , natural language processing and reinforcement learning , federated learning (cv , nlp , rl , fl), Time series (anova, arima, sarimax) 
 what might be asked completely depends on the projects you put in resume 
 
@@ -39,5 +39,5 @@ what might be asked completely depends on the projects you put in resume
 Statistics , Probablity , Linear Algebra – 
 
 RICE university courses , inferencial and descriptive statstics , **mean median mode standard deviation variance** , **range iqr**, p value , hypothesis testing null and alternate hypothesis , 
-concept of population and sample , central limit theorem , different types of probability distributions and their real life examples like gaussian normal poisson gamma exponential binomial Bernoulli etc , 
-**eigenvectors, eigenvalues** , rank of matrix , pdf pmf of distribution , moment , mean expectation , variance , kurtosis and types of it , skewness and its types 
+concept of population and sample , central limit theorem **, different types of probability distributions and their real life examples like gaussian normal poisson gamma exponential binomial Bernoulli etc** ( Study GAmma , Beta , Cauvhy  , T , F distrubtion), 
+**eigenvectors, eigenvalues** , rank of matrix , **pdf pmf of distribution**, **moment , mean expectation , variance , kurtosis and types of it( Plato , Meso , Lepto) , skewness( Positive -mean > mode , No-symmetric , Negative - mean < mode  ) and its types**
