@@ -20,9 +20,9 @@ Basic ML –
 Linear regression (ols ordinary least square, 5 assumptions of linear regression and how to detect and model data if any assumption breaks) , mle maximum likelihood estimatior for it , loss function ,
 regularizations – **l1 lasso l2 ridge elastic regression** , huber regression , math behind glm generalized linear model , using it for poisson regression and logistic regression ,
 meaning of homoscedasticity and heteroscedasticity , **Logistic regression** , **SVM (support vector machine)**, hinge loss function , kernels – polynomial , gaussian , **rbf radial basis function** ,
-**mercer theorem** , **SVR support vector regression , support vector , margin** , max margin classifier , **hyperplane** , naïve bayes and its 3 types , laplace smoothening pseudocount ,
-independence – naïve bayes assumption , k means clustering and its variations – k medioids, k mode, k prototype , k++ , soft and hard clustering algorithms , gmm gaussian mixtures model ,
-em expectation maximization algorithm , density based clustering and dbscan , swiss roll dataset , dimensionality reduction algorithms, pca principal component analysis , 
+**mercer theorem** , **SVR support vector regression , support vector , margin** , max margin classifier , **hyperplane** , **naïve bayes and its 3 types** , laplace smoothening pseudocount ,
+independence – naïve bayes assumption , **k means clustering and its variations** – k medioids, k mode, k prototype , k++ , soft and hard clustering algorithms , **gmm gaussian mixtures model** ,
+**em expectation maximization algorithm** , **density based clustering and dbscan** , swiss roll dataset , dimensionality reduction algorithms, pca principal component analysis , 
 scree plot explained variance percentage eigenvector eigenvalue intuition of pca, svd singular value decomposition , lda linear discriminant analysis , fischer lda formula and intuition ,
 t sne stochastic neighbour embeddings, perplexity parameter, student t , deterministivc and non deterministic dimensionality reduction algorithms , sne , linear and non linear dimensionality reduction, 
 decision trees, gini index and information gain , entropy , extra trees , random forest , bagging bootstrap aggregation , boosting , adaboost vs gradient boosting , **Bias vs Variance [V Imp] with 2-3 graphs related to it underfitting overfitting how to tackle both** 
@@ -31,7 +31,7 @@ decision trees, gini index and information gain , entropy , extra trees , random
 Deep Learning –
 
 **ANN artificial neural networks, perceptron structure , activation functions, how nn trains , backpropogation**, **gradient descent – stochastic batch and mini batch**, adam ,
-momentum based gradient descent variations , **loss functions, transfer learning** , cnn structure different layers , n+2p-f/s + 1 formula , rnn , gru and lstm , basics of computer vision 
+momentum based gradient descent variations , **loss functions, transfer learning** , **cnn structure different layers , n+2p-f/s + 1 formula**, **rnn , gru and lstm , basics of computer vision** 
 , natural language processing and reinforcement learning , federated learning (cv , nlp , rl , fl), Time series (anova, arima, sarimax) 
 what might be asked completely depends on the projects you put in resume 
 
