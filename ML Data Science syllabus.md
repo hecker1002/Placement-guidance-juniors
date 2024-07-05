@@ -9,7 +9,7 @@ Should know reason behind all things , Data visualizations (different types of g
 **box plot and interpretation** , **Scaling – standardization and normalization ka difference** , robust scaling , **min max scaling** , numerical to categorical (binning , clustering) , 
 **categorical to numerical by ordinal encoding , ohe one hot encoding** , target encoding , frequency encoding etc , imbalanced dataset – **undersampling , oversampling** , weighting dataset , nearmiss ,
 random deletion , smote , borderline smote , adasyn 
-Univariate analysis (statistics – mean median mode range standard deviation and variance) , bivariate analysis (correlations – **pearson formula** , spearman formula using rank , point biserial , phi) ,
+Univariate analysis (statistics – mean median mode range standard deviation and variance) , bivariate analysis (**correlations**– **pearson formula** , spearman formula using rank , point biserial , phi) ,
 **correlation matrix how to interpret it** , multivariate (multicollinearity , vif variable inflation factor and formula in terms of r), dummy variable trap in ohe ,
 , how to cure skewed data log transform power transforms box cox transform etc 
 
@@ -24,7 +24,7 @@ meaning of homoscedasticity and heteroscedasticity , **Logistic regression** , *
 independence – naïve bayes assumption , **k means clustering and its variations** – k medioids, k mode, k prototype , k++ , soft and hard clustering algorithms , **gmm gaussian mixtures model** ,
 **em expectation maximization algorithm** , **density based clustering and dbscan** , swiss roll dataset , dimensionality reduction algorithms, pca principal component analysis , 
 scree plot explained variance percentage eigenvector eigenvalue intuition of pca, svd singular value decomposition , lda linear discriminant analysis , fischer lda formula and intuition ,
-t sne stochastic neighbour embeddings, perplexity parameter, student t , deterministivc and non deterministic dimensionality reduction algorithms , sne , linear and non linear dimensionality reduction, 
+t sne (stochastic neighbour embeddings), perplexity parameter, student t , deterministivc and non deterministic dimensionality reduction algorithms , sne , linear and non linear dimensionality reduction, 
 decision trees, gini index and information gain , entropy , extra trees , random forest , bagging bootstrap aggregation , boosting , adaboost vs gradient boosting , **Bias vs Variance [V Imp] with 2-3 graphs related to it underfitting overfitting how to tackle both** 
 
 
@@ -39,5 +39,5 @@ what might be asked completely depends on the projects you put in resume
 Statistics , Probablity , Linear Algebra – 
 
 RICE university courses , inferencial and descriptive statstics , **mean median mode standard deviation variance** , **range iqr**, p value , hypothesis testing null and alternate hypothesis , 
-concept of population and sample , central limit theorem **, different types of probability distributions and their real life examples like gaussian normal poisson gamma exponential binomial Bernoulli etc** ( Study GAmma , Beta , Cauvhy  , T , F distrubtion), 
+**concept of population and sample , central limit theorem** **, different types of probability distributions and their real life examples like gaussian normal poisson gamma exponential binomial Bernoulli etc** ( Study GAmma , Beta , Cauvhy  , T , F distrubtion), 
 **eigenvectors, eigenvalues** , rank of matrix , **pdf pmf of distribution**, **moment , mean expectation , variance , kurtosis and types of it( Plato , Meso , Lepto) , skewness( Positive -mean > mode , No-symmetric , Negative - mean < mode  ) and its types**
