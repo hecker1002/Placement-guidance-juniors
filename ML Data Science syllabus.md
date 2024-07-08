@@ -1,6 +1,6 @@
-Ah , so you browsed the files and found this , very well .
+**Ah , so you browsed the files and found this , very well .
 
-ML syllabus (a lot of it might be extra, but should rather be overprepared than underprepared) 
+ML syllabus (a lot of it might be extra, but should rather be overprepared than underprepared)**
 
 EDA(Exploratory Data Analysis) –
 
@@ -22,8 +22,8 @@ regularizations – **l1 lasso l2 ridge elastic regression** , huber regression 
 meaning of homoscedasticity and heteroscedasticity , **Logistic regression** , **SVM (support vector machine)**, hinge loss function , kernels – polynomial , gaussian , **rbf radial basis function** ,
 **mercer theorem** , **SVR support vector regression , support vector , margin** , max margin classifier , **hyperplane** , **naïve bayes and its 3 types** , laplace smoothening pseudocount ,
 independence – naïve bayes assumption , **k means clustering and its variations** – k medioids, k mode, k prototype , k++ , soft and hard clustering algorithms , **gmm gaussian mixtures model** ,
-**em expectation maximization algorithm** , **density based clustering and dbscan** , swiss roll dataset , dimensionality reduction algorithms, pca principal component analysis , 
-scree plot explained variance percentage eigenvector eigenvalue intuition of pca, svd singular value decomposition , lda linear discriminant analysis , fischer lda formula and intuition ,
+**em expectation maximization algorithm** , **density based clustering and dbscan** , swiss roll dataset , **dimensionality reduction algorithms, pca principal component analysis , 
+scree plot explained variance percentage eigenvector eigenvalue intuition of pca**, svd singular value decomposition , lda linear discriminant analysis , fischer lda formula and intuition ,
 t sne (stochastic neighbour embeddings), perplexity parameter, student t , deterministivc and non deterministic dimensionality reduction algorithms , sne , linear and non linear dimensionality reduction, 
 decision trees, gini index and information gain , entropy , extra trees , random forest , bagging bootstrap aggregation , boosting , adaboost vs gradient boosting , **Bias vs Variance [V Imp] with 2-3 graphs related to it underfitting overfitting how to tackle both** 
 
