@@ -1,6 +1,6 @@
-**Ah , so you browsed the files and found this , very well .
+**Ah , so you browsed the files and found this , very well .**
 
-ML syllabus (a lot of it might be extra, but should rather be overprepared than underprepared)**
+**ML syllabus (a lot of it might be extra, but should rather be overprepared than underprepared)**
 
 EDA(Exploratory Data Analysis) –
 
