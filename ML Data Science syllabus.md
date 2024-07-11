@@ -39,5 +39,5 @@ what might be asked completely depends on the projects you put in resume
 Statistics , Probablity , Linear Algebra – 
 
 RICE university courses , inferencial and descriptive statstics , **mean median mode standard deviation variance** , **range iqr**, p value , hypothesis testing null and alternate hypothesis , 
-**concept of population and sample , central limit theorem** **, different types of probability distributions and their real life examples like gaussian normal poisson gamma exponential binomial Bernoulli etc** ( **Study GAmma , Beta** , Cauvhy  , T , F distrubtion), 
+**concept of population and sample , central limit theorem** **, different types of probability distributions and their real life examples like gaussian normal poisson gamma exponential binomial Bernoulli etc** ( **Study GAmma , Beta** , Cauvhy  ,**T , F distrubtion**), 
 **eigenvectors, eigenvalues** , rank of matrix , **pdf pmf of distribution**, **moment , mean expectation , variance , kurtosis and types of it( Plato , Meso , Lepto) , skewness( Positive -mean > mode , No-symmetric , Negative - mean < mode  ) and its types**
