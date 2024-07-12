@@ -4,8 +4,8 @@
 
 EDA(Exploratory Data Analysis) –
 
-Should know reason behind all things , Data visualizations (different types of graphs how to read them ) , missing values (mcar missing completely at random) 
-, **dropping** , leaky variables , imputing mean median mode advantages disadvantages , ml models to predict missing values xgb imputer . **Outlier detection** , z score , 69 95 99.7 rule , **iqr formula** , 
+Should know reason behind all things , Data visualizations (different types of graphs how to read them ) , **missing values (mcar missing completely at random)**
+, **dropping** , **leaky variables** , imputing mean median mode advantages disadvantages , ml models to predict missing values xgb imputer . **Outlier detection** , z score , 69 95 99.7 rule , **iqr formula** , 
 **box plot and interpretation** , **Scaling – standardization and normalization ka difference** , robust scaling , **min max scaling** , numerical to categorical (binning , clustering) , 
 **categorical to numerical by ordinal encoding , ohe one hot encoding** , target encoding , frequency encoding etc , imbalanced dataset – **undersampling , oversampling** , weighting dataset , nearmiss ,
 random deletion , smote , borderline smote , adasyn 
