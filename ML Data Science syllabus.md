@@ -21,7 +21,7 @@ Linear regression (ols ordinary least square, 5 assumptions of linear regression
 regularizations – **l1 lasso l2 ridge elastic regression** , huber regression , math behind glm generalized linear model , using it for poisson regression and logistic regression ,
 meaning of homoscedasticity and heteroscedasticity , **Logistic regression** , **SVM (support vector machine)**, hinge loss function , kernels – polynomial , gaussian , **rbf radial basis function** ,
 **mercer theorem** , **SVR support vector regression , support vector , margin** , max margin classifier , **hyperplane** , **naïve bayes and its 3 types** , laplace smoothening pseudocount ,
-independence – naïve bayes assumption , **k means clustering and its variations** – k medioids, k mode, k prototype , k++ , soft and hard clustering algorithms , **gmm gaussian mixtures model** ,
+**independence – naïve bayes assumption** , **k means clustering and its variations** – k medioids, k mode, k prototype , k++ , **soft and hard clustering algorithms**, **gmm gaussian mixtures model** ,
 **em expectation maximization algorithm** , **density based clustering and dbscan** , swiss roll dataset , **dimensionality reduction algorithms, pca principal component analysis , 
 scree plot explained variance percentage eigenvector eigenvalue intuition of pca**, svd singular value decomposition , lda linear discriminant analysis , fischer lda formula and intuition ,
 t sne (stochastic neighbour embeddings), perplexity parameter, student t , deterministivc and non deterministic dimensionality reduction algorithms , sne , linear and non linear dimensionality reduction, 
