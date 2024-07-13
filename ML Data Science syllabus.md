@@ -17,7 +17,7 @@ Univariate analysis (statistics – mean median mode range standard deviation an
 Basic ML – 
 
 
-Linear regression (ols ordinary least square, 5 assumptions of linear regression and how to detect and model data if any assumption breaks) , mle maximum likelihood estimatior for it , loss function ,
+**Linear regression (ols ordinary least square, 5 assumptions of linear regression** and how to detect and model data if any assumption breaks) , mle maximum likelihood estimatior for it , loss function ,
 regularizations – **l1 lasso l2 ridge elastic regression** , huber regression , math behind glm generalized linear model , using it for poisson regression and logistic regression ,
 meaning of homoscedasticity and heteroscedasticity , **Logistic regression** , **SVM (support vector machine)**, hinge loss function , kernels – polynomial , gaussian , **rbf radial basis function** ,
 **mercer theorem** , **SVR support vector regression , support vector , margin** , max margin classifier , **hyperplane** , **naïve bayes and its 3 types** , laplace smoothening pseudocount ,
