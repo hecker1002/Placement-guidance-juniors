@@ -2,7 +2,7 @@
 
 **ML syllabus (a lot of it might be extra, but should rather be overprepared than underprepared)**
 
-EDA(Exploratory Data Analysis) –
+**EDA(Exploratory Data Analysis)** –
 
 Should know reason behind all things , Data visualizations (different types of graphs how to read them ) , **missing values (mcar missing completely at random)**
 , **dropping** , **leaky variables** , **imputing mean median mode advantages disadvantages** , ml models to predict missing values xgb imputer . **Outlier detection** , **z score , 69 95 99.7 rule** , **iqr formula** , 
@@ -10,12 +10,11 @@ Should know reason behind all things , Data visualizations (different types of g
 **categorical to numerical by ordinal encoding , ohe one hot encoding** , target encoding , frequency encoding etc , imbalanced dataset – **undersampling , oversampling** , weighting dataset , nearmiss ,
 random deletion , smote , borderline smote , adasyn 
 Univariate analysis (statistics – mean median mode range standard deviation and variance) , bivariate analysis (**correlations**– **pearson formula** , spearman formula using rank , point biserial , phi) ,
-**correlation matrix how to interpret it** , multivariate (multicollinearity , vif variable inflation factor and formula in terms of r), dummy variable trap in ohe ,
+**correlation matrix how to interpret it** , multivariate (**multicollinearity** , vif variable inflation factor and formula in terms of r), dummy variable trap in ohe ,
 , how to cure skewed data log transform power transforms box cox transform etc 
 
 
-Basic ML – 
-
+**Basic ML**– 
 
 **Linear regression (ols ordinary least square, 5 assumptions of linear regression** and how to detect and model data if any assumption breaks) , mle maximum likelihood estimatior for it , loss function ,
 regularizations – **l1 lasso l2 ridge elastic regression** , **huber regression(MSE->MAE)** , math behind glm generalized linear model , using it for poisson regression and logistic regression ,
@@ -28,7 +27,7 @@ t sne (stochastic neighbour embeddings), perplexity parameter,**student t** , de
 **decision trees, gini index and information gain , entropy , extra trees , random forest , bagging bootstrap aggregation , boosting , adaboost vs gradient boosting**, **Bias vs Variance [V Imp] with 2-3 graphs related to it underfitting overfitting how to tackle both** 
 
 
-Deep Learning –
+**Deep Learning** –
 
 **ANN artificial neural networks, perceptron structure , activation functions, how nn trains , backpropogation**, **gradient descent – stochastic batch and mini batch**, adam ,
 momentum based gradient descent variations , **loss functions, transfer learning** , **cnn structure different layers , n+2p-f/s + 1 formula**, **rnn , gru and lstm , basics of computer vision** 
@@ -36,8 +35,8 @@ momentum based gradient descent variations , **loss functions, transfer learning
 what might be asked completely depends on the projects you put in resume 
 
 
-Statistics , Probablity , Linear Algebra – 
+**Statistics , Probablity , Linear Algebra**– 
 
 RICE university courses , inferencial and descriptive statstics , **mean median mode standard deviation variance** , **range iqr**, p value , hypothesis testing null and alternate hypothesis , 
 **concept of population and sample , central limit theorem** **, different types of probability distributions and their real life examples like gaussian normal poisson gamma exponential binomial Bernoulli etc** ( **Study GAmma , Beta** , Cauvhy  ,**T , F distrubtion**), 
-**eigenvectors, eigenvalues** , rank of matrix , **pdf pmf of distribution**, **moment , mean expectation , variance , kurtosis and types of it( Plato , Meso , Lepto) , skewness( Positive -mean > mode , No-symmetric , Negative - mean < mode  ) and its types**
+**eigenvectors, eigenvalues** , **rank of matrix** , **pdf pmf of distribution**, **moment , mean expectation , variance , kurtosis and types of it( Plato , Meso , Lepto) , skewness( Positive -mean > mode , No-symmetric , Negative - mean < mode  ) and its types**
